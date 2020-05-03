@@ -7,9 +7,11 @@
   Roles and Departments.
 
  ## Installation 
-   Run node.js and perform an npm install to bring in all liabrary and necesarry node package. The program is run with the command "node server.js"
+   Run node.js and perform an npm install to bring in all liabrary and necesarry node package. 
+   The program is run with the command "node server.js"
  ## Usage
-    Program is run by executing "node app.js" The user is brought to a main menu with a list of commands that can be execute. Some options have further choices and prompts to interact with the system.
+    Program is run by executing "node server.js" The user is brought to a main menu with a list of commands that can be execute.
+    Some options have further choices and prompts to interact with the system.
 
  ## EmployeeTracker_DB Demo
  ![Demo](Demo/employeeTracker.gif)
