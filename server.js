@@ -111,6 +111,12 @@ function exit() {
     console.log("End connection");
     connection.end();
 }
+
+//promise-mysql help me not to use split function 
+// In addition to the connection options in mysqljs/mysql, promise-mysql accepts the following:
+// returnArgumentsArray boolean: If set to true then methods will return an array with the callback arguments from the underlying method 
+// (excluding the any errors) and the return value from the call.
+
 // View all employees 
 function viewAllEmployee(){
 
